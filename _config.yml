@@ -11,8 +11,8 @@ description: An actuary learning about machine learning, data science and deep l
 github_username: igorluis-actuary
 
 # Email and twitter are optional:
-email:igorluisatuario@gmail.com
-twitter_username:ig0rluis_
+email: igorluisatuario@gmail.com
+twitter_username: ig0rluis_
 
 # Set this to true to get LaTeX math equation support
 use_math: true
